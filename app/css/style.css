@@ -1,0 +1,22 @@
+html, body {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+.imageloader {
+  display: inline-block;
+  margin: auto;
+  width: 100%;
+  max-width: 400px;
+}
+
+.hide {
+  display: none;
+}
