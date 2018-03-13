@@ -12,6 +12,12 @@
     </a>
 
     <!--<script src="js/main_mac-menubar.js"></script>-->
+    <script>
+      var gui = require('nw.gui');
+      var win = gui.Window.get();
+
+      win.setResizable(false);
+    </script>
     <script src="js/jquery.js"></script>
     <script src="js/app.js"></script>
   </body>
