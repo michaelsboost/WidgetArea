@@ -8,6 +8,8 @@ ________________
 
 **NOTE**: [WidgetArea](https://sourceforge.net/projects/widgetarea/) does **NOT** fully support GIF animations.
 
+**PS**: The port is the source code of WidgetArea for Mac. The files named something`-other` are what you would replace to get it to run on Windows or Linux.
+
 **Mac Usage Instructions**:  
 
   - Click the upload image or drag and drop an image there to display in a new window.  

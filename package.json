@@ -1,11 +1,9 @@
 {
-  "main"  : "app/index.html",
-  "name"  : "CamDesk",
+  "main"  : "content/index.html",
+  "name"  : "WidgetArea",
   "window": {
-      "toolbar" : false,
-      "icon"    : "app/assets/icons/logo.png",
-      "width"   : 400,
-      "height"  : 400,
-      "position": "center"
+    "toolbar"  : false,
+    "width"    : 400,
+    "height"   : 400
   }
 }

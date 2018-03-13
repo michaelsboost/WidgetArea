@@ -1,0 +1,11 @@
+{
+  "main"  : "app/index.html",
+  "name"  : "CamDesk",
+  "window": {
+      "toolbar" : false,
+      "icon"    : "app/assets/icons/logo.png",
+      "width"   : 400,
+      "height"  : 400,
+      "position": "center"
+  }
+}
