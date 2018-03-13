@@ -4,8 +4,8 @@
   "window": {
       "toolbar" : false,
       "icon"    : "app/assets/icons/logo.png",
-      "width"   : 1000,
-      "height"  : 600,
+      "width"   : 400,
+      "height"  : 400,
       "position": "center"
   }
 }
