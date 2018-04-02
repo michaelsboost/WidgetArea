@@ -20,3 +20,5 @@ ________________
   - There's no built-in option to adjust pinning or transparency in this release. However, WidgetArea for Mac does support transparent PNG's and GIF images.
 
 If you like the Mac version you can easily port it to Linux or Windows using [WebDGap](http://michaelsboost.github.io/WebDGap/).
+
+*WidgetArea is officially a discontinued project!*
