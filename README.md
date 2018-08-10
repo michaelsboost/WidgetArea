@@ -22,3 +22,5 @@ ________________
 If you like the Mac version you can easily port it to Linux or Windows using [WebDGap](http://michaelsboost.github.io/WebDGap/).
 
 *WidgetArea is officially a discontinued project!*
+
+[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/michaelsboost)
